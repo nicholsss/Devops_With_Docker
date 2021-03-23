@@ -1,0 +1,2 @@
+nicholas@nicholas-desktop:~$ sh -c 'echo "Input website:"; read website; echo "Searching.."; sleep 1; curl http://$website;'
+The command worked without changing it.
